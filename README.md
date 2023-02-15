@@ -1,7 +1,6 @@
 # NIK Number AND TELEPHONE NUMBER Scraper
 <p align="center"><img src="https://i.ibb.co/zXsk37N/Screenshot-20230215-195227.png"/></p>
-<p align="center">Costumer Service ❤️ by <a href="t.me/@country221">xFray ( BF Mikasastak )</a></p>
-
+<p align="center">Costumer Service ❤️ by <a href="https://t.me/country221">xFray ( BF Mikasastak )</a></p>
 
 # example of NIK Number Validation Image
 <p align="center"><img src="https://i.ibb.co/6wnsJ7r/Screenshot-20230215-200200.png"/></p>
