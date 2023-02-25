@@ -6,4 +6,5 @@ cpan install LWP::UserAgent
 cpan install HTTP::Request::Common
 cpan install WWW::Mechanize
 cpan install Term::ANSIColor
+python scrap.py
 echo "Perl Modules Installed Successfully. ✔";
