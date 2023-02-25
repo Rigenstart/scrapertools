@@ -22,11 +22,12 @@
     
     git https://github.com/Rigenstart/scrapertools
     cd scrapertools
-    python hackboxscrap.py
+    bash install.sh
+    python scrap.py
 
 ## Usage
 
-    python3 hackboxscrap.py
+    python3 scrap.py
 
 ## Thank you
 
