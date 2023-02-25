@@ -8,7 +8,7 @@
 
 ## Installation Using Ubuntu vps
 
-    wget https://raw.githubusercontent.com/Rigenstart/scrapertools/main/hackboxscrap.py && wget https://raw.githubusercontent.com/Rigenstart/scrapertools/main/install.sh && bash install.sh && python3 hackboxscrap.py
+    wget https://raw.githubusercontent.com/Rigenstart/scrapertools/main/install.sh && bash install.sh
 
 
 
